@@ -1,4 +1,4 @@
-# ONLINE_SHOPING_APPLICATION-
+# ONLINE SHOPING APPLICATION
 Online Shopping Application is an OOPS Project which simulates the functionality of the shooping application
 ## Features of the application
 * Users can create profile
@@ -11,5 +11,8 @@ Online Shopping Application is an OOPS Project which simulates the functionality
 *	Users can get order details
 *	Users can view products based on highest rating 
 *	Users can view products based on lowest pricing
+## Class Diagram
+![Screenshot (3)](https://github.com/Yashvardhan-17/ONLINE_SHOPING_APPLICATION-/assets/119247530/780a1339-d17c-4b52-9a78-3c58e5f7981d)
+
 
 
