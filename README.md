@@ -1,5 +1,5 @@
 # ONLINE SHOPING APPLICATION
-Online Shopping Application is an OOPS Project which simulates the functionality of the shooping application
+The Online Shopping Application is a comprehensive software project designed to simulate the functionalities of a real-world online shopping platform. This project is developed using Object-Oriented Programming (OOP) principles, allowing for a modular, scalable, and maintainable structure that mirrors the interactions and processes of an actual e-commerce application.
 ## Features of the application
 * Users can create profile
 *	Sellers can add products in the inventory
